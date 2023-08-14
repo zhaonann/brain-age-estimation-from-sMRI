@@ -37,10 +37,10 @@ pip install -r requirements.txt
 | Age Distribution on Healthy Controls | Age Distribution on Brain Disorders |
 | :----------------------------------: | :---------------------------------: |
 
-<center class="half">    
+ 
   <img src="http://sailonzn.test.upcdn.net/HCs_Age_Distribution_8_site_stack.png" alt="Age Distribution on Healthy Controls" width="300" style="zoom:10%;"/>
   <img src="http://sailonzn.test.upcdn.net/BDs_Age_Distribution_8_site_stack.png" alt="Age Distribution on Brain Disorders" width="300" style="zoom:10%;"/> 
-</center>
+
 
 
 
