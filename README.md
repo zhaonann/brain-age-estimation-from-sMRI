@@ -41,6 +41,15 @@ Age Distribution on Brain Disorders
 
   <img src="http://sailonzn.test.upcdn.net/BDs_Age_Distribution_8_site_stack.png" alt="Age Distribution on Brain Disorders" width="300" style="zoom:10%;"/> 
 
+| Age Distribution on Healthy Controls | Age Distribution on Brain Disorders |
+| :----------------------------------: | :---------------------------------: |
+|<img src="http://sailonzn.test.upcdn.net/HCs_Age_Distribution_8_site_stack.png" alt="Age Distribution on Healthy Controls" style="zoom:40%;"/>|<img src="http://sailonzn.test.upcdn.net/BDs_Age_Distribution_8_site_stack.png" alt="Age Distribution on Brain Disorders" style="zoom:40%;"/>|
+
+<center class="half">    
+  <img src="http://sailonzn.test.upcdn.net/HCs_Age_Distribution_8_site_stack.png" alt="Age Distribution on Healthy Controls" style="zoom:40%;"/>
+  <img src="http://sailonzn.test.upcdn.net/BDs_Age_Distribution_8_site_stack.png" alt="Age Distribution on Brain Disorders" style="zoom:40%;"/> 
+</center>
+
 ## 4. Prediction Performance
 
 Predictions on Healthy Controls
