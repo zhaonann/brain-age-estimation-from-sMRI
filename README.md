@@ -38,8 +38,8 @@ pip install -r requirements.txt
 | :----------------------------------: | :---------------------------------: |
 
 <center class="half">    
-  <img src="http://sailonzn.test.upcdn.net/HCs_Age_Distribution_8_site_stack.png" alt="Age Distribution on Healthy Controls" style="zoom:33%;"/>
-  <img src="http://sailonzn.test.upcdn.net/BDs_Age_Distribution_8_site_stack.png" alt="Age Distribution on Brain Disorders" style="zoom:33%;"/> 
+  <img src="http://sailonzn.test.upcdn.net/HCs_Age_Distribution_8_site_stack.png" alt="Age Distribution on Healthy Controls" style="zoom:10%;"/>
+  <img src="http://sailonzn.test.upcdn.net/BDs_Age_Distribution_8_site_stack.png" alt="Age Distribution on Brain Disorders" style="zoom:10%;"/> 
 </center>
 
 
@@ -51,8 +51,8 @@ pip install -r requirements.txt
 | :-----------------------------: | :----------------------------: |
 
 <center class="half">    
-  <img src="http://sailonzn.test.upcdn.net/test_HCs_ours_SFCN.png" alt="Predictions on Healthy Controls" style="zoom:33%;"/>
-  <img src="http://sailonzn.test.upcdn.net/BDs_BAG_ours_train_val_test_part.png" alt="Predictions on Brain Disorders" style="zoom:33%;"/> 
+  <img src="http://sailonzn.test.upcdn.net/test_HCs_ours_SFCN.png" alt="Predictions on Healthy Controls" style="zoom:10%;"/>
+  <img src="http://sailonzn.test.upcdn.net/BDs_BAG_ours_train_val_test_part.png" alt="Predictions on Brain Disorders" style="zoom:10%;"/> 
 </center>
 
 
