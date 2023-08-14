@@ -1,0 +1,30 @@
+#!/bin/bash
+#SBATCH -J brain_age
+#SBATCH -p bme_gpu
+#SBATCH -N 1
+#SBATCH -n 8
+#SBATCH -t 100:00:00
+#SBATCH --mem=128G
+#SBATCH --gres=gpu:1
+#SBATCH --output=./out/sMRI_8_sites_%j.out
+#SBATCH --error=./out/sMRI_8_sites_%j.err
+#SBATCH --gres=gpu:NVIDIAA10080GBPCIe:1
+
+date
+nvidia-smi
+
+batch_size=8
+learning_rate=0.001
+weight_decay=0.0001
+n_epochs=200
+n_exps=1 # num of independent experiments
+
+# ============= Training and Parameter Configuration ==============
+python train_threedim_3view_GAF.py                       \
+--batch_size        $batch_size                          \
+--lr_s              $learning_rate                       \
+--wd_s              $weight_decay                        \
+--n_epochs          $n_epochs                            \
+--n_exps            $n_exps                              \
+
+date

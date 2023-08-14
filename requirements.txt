@@ -1,0 +1,15 @@
+   scikit-learn
+   pandas
+   scipy
+   matplotlib
+   SimpleITK
+   antspyx
+   opencv-python
+   tensorboard
+   tqdm
+   shutils
+   nibabel
+   argparse
+   pydicom
+   einops
+   monai
