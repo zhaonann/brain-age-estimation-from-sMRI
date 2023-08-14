@@ -51,7 +51,7 @@ pip install -r requirements.txt
 | :-----------------------------: | :----------------------------: |
 
 <center class="half">    
-  <img src="http://sailonzn.test.upcdn.net/test_HCs_ours_SFCN.png" alt="Predictions on Healthy Controls" style="zoom:10%;"/>
+  <img src="http://sailonzn.test.upcdn.net/test_HCs_ours_SFCN.png" alt="Predictions on Healthy Controls" width="50" style="zoom:10%;"/>
   <img src="http://sailonzn.test.upcdn.net/BDs_BAG_ours_train_val_test_part.png" alt="Predictions on Brain Disorders" style="zoom:10%;"/> 
 </center>
 
