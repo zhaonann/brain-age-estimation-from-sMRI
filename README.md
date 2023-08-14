@@ -34,27 +34,19 @@ pip install -r requirements.txt
 
 <img src="http://sailonzn.test.upcdn.net/table.png" alt="Screenshot from 2023-08-05 19-04-52" style="zoom: 40%;" />
 
-| Age Distribution on Healthy Controls | Age Distribution on Brain Disorders |
-| :----------------------------------: | :---------------------------------: |
-
- 
+Age Distribution on Healthy Controls 
   <img src="http://sailonzn.test.upcdn.net/HCs_Age_Distribution_8_site_stack.png" alt="Age Distribution on Healthy Controls" width="300" style="zoom:10%;"/>
+
+Age Distribution on Brain Disorders
+
   <img src="http://sailonzn.test.upcdn.net/BDs_Age_Distribution_8_site_stack.png" alt="Age Distribution on Brain Disorders" width="300" style="zoom:10%;"/> 
-
-
-
-
 
 ## 4. Prediction Performance
 
-| Predictions on Healthy Controls | Predictions on Brain Disorders |
-| :-----------------------------: | :----------------------------: |
-
-<center class="half">    
+Predictions on Healthy Controls
   <img src="http://sailonzn.test.upcdn.net/test_HCs_ours_SFCN.png" alt="Predictions on Healthy Controls" width="300" style="zoom:10%;"/>
+Predictions on Brain Disorders 
   <img src="http://sailonzn.test.upcdn.net/BDs_BAG_ours_train_val_test_part.png" alt="Predictions on Brain Disorders" width="300" style="zoom:10%;"/> 
-</center>
-
 
 ## 5. Train the Model
 
