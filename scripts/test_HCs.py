@@ -1,18 +1,14 @@
-import time
 from models.threedim_3view_GAF_MSA_share_encoder import Threedim_3view_GAF_CNN
 import utils
 from data import ExCustomDataset_threedim_3view_GAF, data_split
 from torch.utils.data import DataLoader
 from torch.utils.tensorboard import SummaryWriter
 import torch
-import glob
 import torch.nn as nn
 from torch import optim
 from tqdm import tqdm
 import numpy as np
 import os
-import sys
-import glob
 import platform
 import logging
 import matplotlib.pyplot as plt
