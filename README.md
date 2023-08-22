@@ -5,7 +5,7 @@
 # Modeling Life-span Brain Age from Large-scale Dataset based on Multi-level Information Fusion
 
 This is a PyTorch implementation of the paper "Modeling Life-span Brain Age from Large-scale
-Dataset based on Multi-level Information Fusion", June, 2023.
+Dataset based on Multi-level Information Fusion", July, 2023.
 
 ## 1. Installation
 
