@@ -10,6 +10,7 @@ def Age_distribution_HC():
     in_file = '/home/zhaonan/XXXXX/BrainAgeEst/6-site/subinfo_8_DK106_new.csv'
     outpath = '/home/zhaonan/XXXXX/BrainAgeEst/MICCAI-WORKSHOP/dist_figure'
     ### 1=Male 0=Female
+    # groups = ['ABIDE', 'RENJI', 'PET_CENTER', 'ADNI', 'OASIS', 'ADHD', 'CoRR', 'CBMFM'] # 1-8
     # dict_cor = ['ABIDE', 'ADHD-200', 'ADNI', 'OASIS', 'CoRR', 'RENJI', 'HUASHAN', 'CBMFM'] # 1-8
     dict_cor = ['ABIDE', 'ADHD-200', 'ADNI', 'OASIS', 'CoRR', r'Institute$_1$',  r'Institute$_2$', r'Institute$_3$'] # 1-8
 
